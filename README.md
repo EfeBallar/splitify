@@ -53,14 +53,7 @@ This will:
 - Automatically determine the optimal number of clusters
 - Generate clustering results in `song_clusters.json`
 - Create visualization plots (`song_clusters.png`, `optimal_k_analysis.png`)
-```
 
-#### 🔍 Analyze Individual Songs
-
-Analyze a specific song's features:
-```bash
-python app.py
-```
 
 ## 📊 Output Files
 
